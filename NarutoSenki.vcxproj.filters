@@ -1,0 +1,3509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\CCScrewLayer.cpp">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\CCShake.cpp">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\CCStrokeLabel.cpp">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\KTools.cpp">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\MD5ChecksumDefines.cpp">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\ActionButton.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\ActionManager.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\BGLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\Characters.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\CreditsLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\Effect.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\Element.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\GameLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\GameOver.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\GameScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\GearLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\HPBar.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\HudLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\JoyStick.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\LoadLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\NetworkLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\PauseLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\RankingLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\SelectLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\SkillLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\StartMenu.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\CCScrewLayer.h">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\CCShake.h">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\CCStrokeLabel.h">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\CMD5Checksum.h">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\KTools.h">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\MD5ChecksumDefines.h">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\sqlite3.h">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\MyUtils\sqlite3ext.h">
+      <Filter>Source Files\Classes\MyUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\ActionButton.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\ActionManager.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\BGLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\Characters.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\CreditsLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\Defines.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\Effect.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\Element.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\GameLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\GameOver.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\GameScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\GearLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\HPBar.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\HudLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\JoyStick.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\LoadLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\NetworkLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\PauseLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\RankingLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\SelectLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\SkillLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Classes\StartMenu.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_combo.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_dead.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_hurt.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill1.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill2_1.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill2_2.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill3.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill3_1.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill4.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill4_1.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill4_2.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill4_3.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill4_5.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill4_6.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Asuma\asuma_skill5.mp3">
+      <Filter>Resources\Audio\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Chiyo\Chiyo_combo.mp3">
+      <Filter>Resources\Audio\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Chiyo\Chiyo_dead.mp3">
+      <Filter>Resources\Audio\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Chiyo\Chiyo_skill1.mp3">
+      <Filter>Resources\Audio\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Chiyo\Chiyo_skill2.mp3">
+      <Filter>Resources\Audio\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Chiyo\Chiyo_skill3.mp3">
+      <Filter>Resources\Audio\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Chiyo\Chiyo_skill4.mp3">
+      <Filter>Resources\Audio\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Chiyo\Chiyo_skill5.mp3">
+      <Filter>Resources\Audio\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Chiyo\Chiyo_skill5_1.mp3">
+      <Filter>Resources\Audio\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Chiyo\Chiyo_skill5_2.mp3">
+      <Filter>Resources\Audio\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Choji\Choji_combo.mp3">
+      <Filter>Resources\Audio\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Choji\Choji_dead.mp3">
+      <Filter>Resources\Audio\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Choji\Choji_hurt.mp3">
+      <Filter>Resources\Audio\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Choji\Choji_skill1.mp3">
+      <Filter>Resources\Audio\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Choji\Choji_skill10.mp3">
+      <Filter>Resources\Audio\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Choji\Choji_skill12.mp3">
+      <Filter>Resources\Audio\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Choji\Choji_skill2.mp3">
+      <Filter>Resources\Audio\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Choji\Choji_skill3.mp3">
+      <Filter>Resources\Audio\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Choji\Choji_skill4.mp3">
+      <Filter>Resources\Audio\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Deidara\deidara_combo.mp3">
+      <Filter>Resources\Audio\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Deidara\deidara_dead.mp3">
+      <Filter>Resources\Audio\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Deidara\deidara_hurt.mp3">
+      <Filter>Resources\Audio\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Deidara\deidara_skill1.mp3">
+      <Filter>Resources\Audio\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Deidara\deidara_skill2.mp3">
+      <Filter>Resources\Audio\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Deidara\deidara_skill3.mp3">
+      <Filter>Resources\Audio\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Deidara\deidara_skill4.mp3">
+      <Filter>Resources\Audio\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Deidara\deidara_skill5.mp3">
+      <Filter>Resources\Audio\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\baiyan.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\blade.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\blade_damage.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\blade_damage2.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\bom.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\break_sound.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\break_sound2.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\break_sound3.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\combo1.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\combo2.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\combo3.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\damage_c.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\damage_h.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\damage_haken.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\damage_i.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\damage_k.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\damage_l.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\damage_o.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\damage_o2.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\damage_rasen.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\dash_effect.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\fudon_effect.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\goukakyu.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\hiraishin_effect.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\hiraishin_effect2.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\kara.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\kong.ogg">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\kuilei.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\kuroari.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\kuwu.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\o2_damage.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\ougis.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\poof.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\poof2.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\pup.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\rasen.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\rush.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\srg.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\srg2.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\stick_damage.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\suiryudan.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\suzou_effect.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\thunder_effect.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\water_effect.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Effect\weishoupao.mp3">
+      <Filter>Resources\Audio\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Gaara\Gaara_combo.mp3">
+      <Filter>Resources\Audio\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Gaara\Gaara_dead.mp3">
+      <Filter>Resources\Audio\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Gaara\Gaara_hurt.mp3">
+      <Filter>Resources\Audio\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Gaara\Gaara_skill0.mp3">
+      <Filter>Resources\Audio\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Gaara\Gaara_skill0_1.mp3">
+      <Filter>Resources\Audio\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Gaara\Gaara_skill1.mp3">
+      <Filter>Resources\Audio\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Gaara\Gaara_skill2.mp3">
+      <Filter>Resources\Audio\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Gaara\Gaara_skill3.mp3">
+      <Filter>Resources\Audio\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Gaara\Gaara_skill5.mp3">
+      <Filter>Resources\Audio\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Han\Han_combo.mp3">
+      <Filter>Resources\Audio\Han</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Han\Han_combo2.mp3">
+      <Filter>Resources\Audio\Han</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Han\Han_hurt.mp3">
+      <Filter>Resources\Audio\Han</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hidan\Hidan_combo.mp3">
+      <Filter>Resources\Audio\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hidan\Hidan_dead.mp3">
+      <Filter>Resources\Audio\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hidan\Hidan_skill1.mp3">
+      <Filter>Resources\Audio\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hidan\Hidan_skill2.mp3">
+      <Filter>Resources\Audio\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hidan\Hidan_skill3.mp3">
+      <Filter>Resources\Audio\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hidan\Hidan_skill4.mp3">
+      <Filter>Resources\Audio\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hidan\Hidan_skill4_1.mp3">
+      <Filter>Resources\Audio\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_combo.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_dead.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_hurt.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill01.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill02_1.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill02_2.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill03.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill04.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill5_1.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill5_2.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill5_3.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill5_4.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hinata\hinata_skill5_6.mp3">
+      <Filter>Resources\Audio\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_combo.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_dead.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_hurt.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_skill1.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_skill2.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_skill3_1.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_skill3_2.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_skill4_1.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_skill4_2.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_skill4_3.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Hiruzen\Hiruzen_skill5.mp3">
+      <Filter>Resources\Audio\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\ImmortalSasuke\ImmortalSasuke_skill10.mp3">
+      <Filter>Resources\Audio\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\ImmortalSasuke\ImmortalSasuke_skill1_1.mp3">
+      <Filter>Resources\Audio\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\ImmortalSasuke\ImmortalSasuke_skill1_2.mp3">
+      <Filter>Resources\Audio\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\ImmortalSasuke\ImmortalSasuke_skill2.mp3">
+      <Filter>Resources\Audio\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\ImmortalSasuke\ImmortalSasuke_skill3.mp3">
+      <Filter>Resources\Audio\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\ImmortalSasuke\ImmortalSasuke_skill4.mp3">
+      <Filter>Resources\Audio\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\ImmortalSasuke\ImmortalSasuke_skill5_1.mp3">
+      <Filter>Resources\Audio\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ino\Ino_combo.mp3">
+      <Filter>Resources\Audio\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ino\Ino_dead.mp3">
+      <Filter>Resources\Audio\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ino\Ino_hurt.mp3">
+      <Filter>Resources\Audio\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ino\Ino_skill1.mp3">
+      <Filter>Resources\Audio\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ino\Ino_skill3.mp3">
+      <Filter>Resources\Audio\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ino\Ino_skill3_1.mp3">
+      <Filter>Resources\Audio\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ino\Ino_skill3_2.mp3">
+      <Filter>Resources\Audio\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ino\Ino_skill4.mp3">
+      <Filter>Resources\Audio\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ino\ino_skill2.mp3">
+      <Filter>Resources\Audio\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Asuma.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Chiyo.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Choji.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Deidara.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Gaara.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Hidan.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Hinata.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Hiruzen.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Ino.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Itachi.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Jiraiya.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Jugo.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Kakashi.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Kakuzu.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Kankuro.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Karin.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Kiba.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Kisame.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Konan.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Lee.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Minato.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Naruto.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Neji.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Orochimaru.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Pain.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Sai.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Sakura.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Sasuke.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Shikamaru.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Shino.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Suigetsu.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Tenten.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Tobi.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Tobirama.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Intro\Tsunade.mp3">
+      <Filter>Resources\Audio\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_combo.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_dead.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_hurt.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_skill1.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_skill1_1.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_skill2.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_skill3.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_skill3_1.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_skill4.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_skill5_1.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Itachi\itachi_skill5_2.mp3">
+      <Filter>Resources\Audio\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jiraiya\jiraiya_combo.mp3">
+      <Filter>Resources\Audio\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jiraiya\jiraiya_dead.mp3">
+      <Filter>Resources\Audio\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jiraiya\jiraiya_hurt.mp3">
+      <Filter>Resources\Audio\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jiraiya\jiraiya_skill1.mp3">
+      <Filter>Resources\Audio\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jiraiya\jiraiya_skill2.mp3">
+      <Filter>Resources\Audio\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jiraiya\jiraiya_skill3.mp3">
+      <Filter>Resources\Audio\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jiraiya\jiraiya_skill4.mp3">
+      <Filter>Resources\Audio\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jiraiya\jiraiya_skill5_1.mp3">
+      <Filter>Resources\Audio\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jiraiya\jiraiya_skill5_2.mp3">
+      <Filter>Resources\Audio\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_combo.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_dead.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_hurt.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_skill1.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_skill10.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_skill2.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_skill3.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_skill4_1.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_skill4_2.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Jugo\Jugo_skill5.mp3">
+      <Filter>Resources\Audio\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_combo.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_dead.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_hurt.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill1.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill10.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill11.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill2.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill3.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill4.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill5_1.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill5_3.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill5_4.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\kakashi_skill5_5.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\leiqie.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakashi\leiqie2.mp3">
+      <Filter>Resources\Audio\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakuzu\Kakuzu_combo.mp3">
+      <Filter>Resources\Audio\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakuzu\Kakuzu_dead.mp3">
+      <Filter>Resources\Audio\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakuzu\Kakuzu_skill1.mp3">
+      <Filter>Resources\Audio\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakuzu\Kakuzu_skill2.mp3">
+      <Filter>Resources\Audio\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakuzu\Kakuzu_skill2_1.mp3">
+      <Filter>Resources\Audio\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakuzu\Kakuzu_skill3.mp3">
+      <Filter>Resources\Audio\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kakuzu\Kakuzu_skill4.mp3">
+      <Filter>Resources\Audio\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kankuro\kankuro_combo.mp3">
+      <Filter>Resources\Audio\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kankuro\kankuro_dead.mp3">
+      <Filter>Resources\Audio\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kankuro\kankuro_hurt.mp3">
+      <Filter>Resources\Audio\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kankuro\kankuro_skill1.mp3">
+      <Filter>Resources\Audio\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kankuro\kankuro_skill2.mp3">
+      <Filter>Resources\Audio\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kankuro\kankuro_skill3.mp3">
+      <Filter>Resources\Audio\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kankuro\kankuro_skill4.mp3">
+      <Filter>Resources\Audio\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kankuro\kankuro_skill5_1.mp3">
+      <Filter>Resources\Audio\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_combo.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_dead.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_hurt.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_skill1.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_skill2.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_skill3.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_skill4.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_skill5_1.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_skill5_2.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Karin\Karin_skill5_3.mp3">
+      <Filter>Resources\Audio\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_combo.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_dead.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_hurt.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_skill1.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_skill11.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_skill2.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_skill3.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_skill4_1.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_skill4_2.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kiba\Kiba_skill5.mp3">
+      <Filter>Resources\Audio\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_combo.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_dead.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_hurt.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_skill1.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_skill10.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_skill10_1.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_skill2.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_skill3.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_skill4.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Kisame\Kisame_skill5.mp3">
+      <Filter>Resources\Audio\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_combo.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_dead.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_hurt.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_skill1.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_skill2.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_skill3.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_skill3_1.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_skill4.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_skill5.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Konan\konan_skill5_1.mp3">
+      <Filter>Resources\Audio\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_combo.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_dead.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_hurt.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill1.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill10.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill11.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill2.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill3_1.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill3_2.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill3_3.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill4_1.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill4_2.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill5_1.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Lee\Lee_skill5_2.mp3">
+      <Filter>Resources\Audio\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\arcade.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\battle_over.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\battle_over1.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\battle_start.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\battle_start1.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\cancel.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\chang_btn.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\confirm.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\confirm2.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\credits.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\exit.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\intro.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\intro2.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\kill2_1.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\kill2_2.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\kill2_3.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\kill2_4.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\kill3_1.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\kill3_2.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\kill3_3.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\kill3_4.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\kill4.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\select.mp3">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Menu\training.ogg">
+      <Filter>Resources\Audio\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Minato\Minato_combo.mp3">
+      <Filter>Resources\Audio\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Minato\Minato_skill1.mp3">
+      <Filter>Resources\Audio\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Minato\Minato_skill2.mp3">
+      <Filter>Resources\Audio\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Minato\Minato_skill2_1.mp3">
+      <Filter>Resources\Audio\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Minato\Minato_skill3.mp3">
+      <Filter>Resources\Audio\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Minato\Minato_skill4.mp3">
+      <Filter>Resources\Audio\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Minato\Minato_skill5.mp3">
+      <Filter>Resources\Audio\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle1.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle10.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle11.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle12.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle13.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle14.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle15.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle4.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle5.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle6.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle7.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle8.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\Battle9.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\credits_music.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\intro_music.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\loading_music.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\menu_music.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\ranking_music.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Music\select_music.mp3">
+      <Filter>Resources\Audio\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_combo.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_dead.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_hurt.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_skill1.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_skill12.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_skill2.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_skill3.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_skill4.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_skill4_1.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Naruto\naruto_skill5.mp3">
+      <Filter>Resources\Audio\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_combo.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_dead.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_hurt.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill01.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill02_1.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill02_2.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill03.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill04.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill04_1.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill5_1.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill5_3.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill5_4.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Neji\Neji_skill5_5.mp3">
+      <Filter>Resources\Audio\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Asuma_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Chiyo_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Choji_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Deidara_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Gaara_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Han_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Hidan_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Hinata_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Hiruzen_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\HokageMinato_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\ImmortalSasuke_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Ino_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Itachi_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Jiraiya_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Jugo_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Kakashi_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Kakuzu_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Kankuro_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Karin_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Kiba_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Kimimaro_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Kisame_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Konan_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Minato_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Nagato_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Naruto_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Neji_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Orochimaru_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Pain_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\RikudoNaruto_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\RockLee_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Roshi_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\SageJiraiya_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\SageNaruto_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Sai_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Sakura_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Sasuke_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Shikamaru_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Shino_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Suigetsu_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Tenten_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Tobi_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Tobirama_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Ougis\Tsunade_ougis.mp3">
+      <Filter>Resources\Audio\Ougis</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\RikudoNaruto\Kurama_combo.mp3">
+      <Filter>Resources\Audio\RikudoNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\RikudoNaruto\RikudoNaruto_skill1.mp3">
+      <Filter>Resources\Audio\RikudoNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\RikudoNaruto\RikudoNaruto_skill2.mp3">
+      <Filter>Resources\Audio\RikudoNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\RikudoNaruto\RikudoNaruto_skill3.mp3">
+      <Filter>Resources\Audio\RikudoNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\RikudoNaruto\RikudoNaruto_skill4.mp3">
+      <Filter>Resources\Audio\RikudoNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\RikudoNaruto\RikudoNaruto_skill5.mp3">
+      <Filter>Resources\Audio\RikudoNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Roshi\Roshi_Hurt.mp3">
+      <Filter>Resources\Audio\Roshi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Roshi\Roshi_combo.mp3">
+      <Filter>Resources\Audio\Roshi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Roshi\Roshi_combo2.mp3">
+      <Filter>Resources\Audio\Roshi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageJiraiya\SageJiraiya_combo.mp3">
+      <Filter>Resources\Audio\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageJiraiya\SageJiraiya_skill1.mp3">
+      <Filter>Resources\Audio\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageJiraiya\SageJiraiya_skill2.mp3">
+      <Filter>Resources\Audio\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageJiraiya\SageJiraiya_skill3.mp3">
+      <Filter>Resources\Audio\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageJiraiya\SageJiraiya_skill3_1.mp3">
+      <Filter>Resources\Audio\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageJiraiya\SageJiraiya_skill4.mp3">
+      <Filter>Resources\Audio\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageJiraiya\SageJiraiya_skill4_1.mp3">
+      <Filter>Resources\Audio\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageJiraiya\SageJiraiya_skill5.mp3">
+      <Filter>Resources\Audio\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageJiraiya\SageJiraiya_skill5_1.mp3">
+      <Filter>Resources\Audio\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageNaruto\SageNaruto_skill1.mp3">
+      <Filter>Resources\Audio\SageNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageNaruto\SageNaruto_skill3.mp3">
+      <Filter>Resources\Audio\SageNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageNaruto\SageNaruto_skill3_1.mp3">
+      <Filter>Resources\Audio\SageNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageNaruto\SageNaruto_skill5.mp3">
+      <Filter>Resources\Audio\SageNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageNaruto\SageNauruto_skill8.mp3">
+      <Filter>Resources\Audio\SageNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\SageNaruto\xianfa.mp3">
+      <Filter>Resources\Audio\SageNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\Sai_ougis.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\ink_mouse.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\ink_tiger.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_combo.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_combo2.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_dead.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_hurt.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_skill1.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_skill2.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_skill2_1.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_skill3.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_skill4.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_skill4_1.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sai\sai_skill5.mp3">
+      <Filter>Resources\Audio\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_combo.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_combo2.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_dead.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_hurt.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill1.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill2.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill3.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill4_1.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill4_2.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill5.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill5_1.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill5_2.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill5_3.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sakura\sakura_skill5_4.mp3">
+      <Filter>Resources\Audio\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_combo.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_dead.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_hurt.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_skill1.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_skill10.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_skill11.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_skill1_1.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_skill2.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_skill2_2.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_skill3.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_skill4.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Sasuke\sasuke_skill4_1.mp3">
+      <Filter>Resources\Audio\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shikamaru\Shikamaru_combo.mp3">
+      <Filter>Resources\Audio\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shikamaru\Shikamaru_dead.mp3">
+      <Filter>Resources\Audio\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shikamaru\Shikamaru_hurt.mp3">
+      <Filter>Resources\Audio\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shikamaru\Shikamaru_skill01.mp3">
+      <Filter>Resources\Audio\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shikamaru\Shikamaru_skill02.mp3">
+      <Filter>Resources\Audio\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shikamaru\Shikamaru_skill03.mp3">
+      <Filter>Resources\Audio\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shikamaru\Shikamaru_skill04.mp3">
+      <Filter>Resources\Audio\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shikamaru\Shikamaru_skill5.mp3">
+      <Filter>Resources\Audio\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shikamaru\yingzi.mp3">
+      <Filter>Resources\Audio\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_combo.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_dead.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_hurt.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_skill1.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_skill1_1.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_skill2.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_skill2_1.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_skill3.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_skill4.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Shino\Shino_skill5.mp3">
+      <Filter>Resources\Audio\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_combo.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_dead.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_hurt.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_skill1.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_skill2.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_skill3_1.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_skill3_2.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_skill4.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_skill5_3.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_skill5_4.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Suigetsu\suigetsu_skill5_5.mp3">
+      <Filter>Resources\Audio\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\Tenten_skill5_1.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\Tenten_skill5_2.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\Tenten_skill5_3.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\tenten_combo.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\tenten_dead.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\tenten_hurt.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\tenten_skill1.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\tenten_skill2.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\tenten_skill2_1.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\tenten_skill3.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\tenten_skill4.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tenten\tenten_skill4_1.mp3">
+      <Filter>Resources\Audio\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobi\Tobi_combo.mp3">
+      <Filter>Resources\Audio\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobi\Tobi_dead.mp3">
+      <Filter>Resources\Audio\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobi\Tobi_skill1.mp3">
+      <Filter>Resources\Audio\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobi\Tobi_skill2.mp3">
+      <Filter>Resources\Audio\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobi\Tobi_skill2_1.mp3">
+      <Filter>Resources\Audio\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobi\Tobi_skill3.mp3">
+      <Filter>Resources\Audio\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobi\Tobi_skill4.mp3">
+      <Filter>Resources\Audio\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobi\Tobi_skill5_1.mp3">
+      <Filter>Resources\Audio\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobi\Tobi_skill5_2.mp3">
+      <Filter>Resources\Audio\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_combo.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_dead.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_hurt.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_skill1.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_skill2.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_skill3.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_skill4.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_skill4_1.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_skill5_1.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_skill5_2.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_skill5_3.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tobirama\Tobirama_skill5_4.mp3">
+      <Filter>Resources\Audio\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_combo.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_dead.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_hurt.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_skill1.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_skill11.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_skill2.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_skill2_1.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_skill3.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_skill4_1.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_skill4_2.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_skill4_3.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\Tsunade\Tsunade_skill5.mp3">
+      <Filter>Resources\Audio\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Audio\list.xml">
+      <Filter>Resources\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Effects\DamageEffect.plist">
+      <Filter>Resources\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Effects\DamageEffect.png">
+      <Filter>Resources\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Effects\Shadows.plist">
+      <Filter>Resources\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Effects\Shadows.png">
+      <Filter>Resources\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Effects\SkillEffect.plist">
+      <Filter>Resources\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Effects\SkillEffect.png">
+      <Filter>Resources\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\.idea\.name">
+      <Filter>Resources\Element\.idea</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\.idea\Element.iml">
+      <Filter>Resources\Element\.idea</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\.idea\encodings.xml">
+      <Filter>Resources\Element\.idea</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\.idea\misc.xml">
+      <Filter>Resources\Element\.idea</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\.idea\modules.xml">
+      <Filter>Resources\Element\.idea</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\.idea\scopes\scope_settings.xml">
+      <Filter>Resources\Element\.idea\scopes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\.idea\vcs.xml">
+      <Filter>Resources\Element\.idea</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\.idea\workspace.xml">
+      <Filter>Resources\Element\.idea</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Akamaru\Akamaru.plist">
+      <Filter>Resources\Element\Akamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Akamaru\Akamaru.pvr.ccz">
+      <Filter>Resources\Element\Akamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Akamaru\Akamaru.xml">
+      <Filter>Resources\Element\Akamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Asuma\Asuma.plist">
+      <Filter>Resources\Element\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Asuma\Asuma.pvr.ccz">
+      <Filter>Resources\Element\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Asuma\Asuma.xml">
+      <Filter>Resources\Element\Asuma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Bullet\Amaterasu.xml">
+      <Filter>Resources\Element\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Bullet\FlyKnife.xml">
+      <Filter>Resources\Element\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Bullet\HiraishinKunai.xml">
+      <Filter>Resources\Element\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Bullet\HugeSRK.xml">
+      <Filter>Resources\Element\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Bullet\Kusuri.xml">
+      <Filter>Resources\Element\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Bullet\PaperSpear.xml">
+      <Filter>Resources\Element\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Bullet\PaperSrk.xml">
+      <Filter>Resources\Element\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Bullet\Shintenshin.xml">
+      <Filter>Resources\Element\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Bullet\TentenSRK.xml">
+      <Filter>Resources\Element\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Centipede\Centipede.plist">
+      <Filter>Resources\Element\Centipede</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Centipede\Centipede.pvr.ccz">
+      <Filter>Resources\Element\Centipede</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Centipede\Centipede.xml">
+      <Filter>Resources\Element\Centipede</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Chiyo\Chiyo.plist">
+      <Filter>Resources\Element\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Chiyo\Chiyo.pvr.ccz">
+      <Filter>Resources\Element\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Chiyo\Chiyo.xml">
+      <Filter>Resources\Element\Chiyo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Choji\Choji.plist">
+      <Filter>Resources\Element\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Choji\Choji.pvr.ccz">
+      <Filter>Resources\Element\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Choji\Choji.xml">
+      <Filter>Resources\Element\Choji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Deidara\Deidara.plist">
+      <Filter>Resources\Element\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Deidara\Deidara.pvr.ccz">
+      <Filter>Resources\Element\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Deidara\Deidara.xml">
+      <Filter>Resources\Element\Deidara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\DogWall\DogWall.plist">
+      <Filter>Resources\Element\DogWall</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\DogWall\DogWall.pvr.ccz">
+      <Filter>Resources\Element\DogWall</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\DogWall\DogWall.xml">
+      <Filter>Resources\Element\DogWall</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\FemalePainFlog.plist">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\FemalePainFlog.pvr.ccz">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\FemalePainFlog.xml">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\IzumoFlog.plist">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\IzumoFlog.pvr.ccz">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\IzumoFlog.xml">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\KakashiFlog.plist">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\KakashiFlog.pvr.ccz">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\KakashiFlog.xml">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\KotetsuFlog.plist">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\KotetsuFlog.pvr.ccz">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\KotetsuFlog.xml">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\ObitoFlog.plist">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\ObitoFlog.pvr.ccz">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\ObitoFlog.xml">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\PainFlog.plist">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\PainFlog.pvr.ccz">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Flog\PainFlog.xml">
+      <Filter>Resources\Element\Flog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Gaara\Gaara.plist">
+      <Filter>Resources\Element\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Gaara\Gaara.pvr.ccz">
+      <Filter>Resources\Element\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Gaara\Gaara.xml">
+      <Filter>Resources\Element\Gaara</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Han\Han.plist">
+      <Filter>Resources\Element\Han</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Han\Han.pvr.ccz">
+      <Filter>Resources\Element\Han</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Han\Han.xml">
+      <Filter>Resources\Element\Han</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Hidan\Hidan.plist">
+      <Filter>Resources\Element\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Hidan\Hidan.pvr.ccz">
+      <Filter>Resources\Element\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Hidan\Hidan.xml">
+      <Filter>Resources\Element\Hidan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Hinata\Hinata.plist">
+      <Filter>Resources\Element\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Hinata\Hinata.pvr.ccz">
+      <Filter>Resources\Element\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Hinata\Hinata.xml">
+      <Filter>Resources\Element\Hinata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Hiruzen\Hiruzen.plist">
+      <Filter>Resources\Element\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Hiruzen\Hiruzen.pvr.ccz">
+      <Filter>Resources\Element\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Hiruzen\Hiruzen.xml">
+      <Filter>Resources\Element\Hiruzen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\ImmortalSasuke\ImmortalSasuke.plist">
+      <Filter>Resources\Element\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\ImmortalSasuke\ImmortalSasuke.pvr.ccz">
+      <Filter>Resources\Element\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\ImmortalSasuke\ImmortalSasuke.xml">
+      <Filter>Resources\Element\ImmortalSasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Ino\Ino.plist">
+      <Filter>Resources\Element\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Ino\Ino.pvr.ccz">
+      <Filter>Resources\Element\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Ino\Ino.xml">
+      <Filter>Resources\Element\Ino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Itachi\Itachi.plist">
+      <Filter>Resources\Element\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Itachi\Itachi.pvr.ccz">
+      <Filter>Resources\Element\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Itachi\Itachi.xml">
+      <Filter>Resources\Element\Itachi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Jiraiya\Jiraiya.plist">
+      <Filter>Resources\Element\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Jiraiya\Jiraiya.pvr.ccz">
+      <Filter>Resources\Element\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Jiraiya\Jiraiya.xml">
+      <Filter>Resources\Element\Jiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Jugo\Jugo.plist">
+      <Filter>Resources\Element\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Jugo\Jugo.pvr.ccz">
+      <Filter>Resources\Element\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Jugo\Jugo.xml">
+      <Filter>Resources\Element\Jugo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kakashi\Kakashi.plist">
+      <Filter>Resources\Element\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kakashi\Kakashi.pvr.ccz">
+      <Filter>Resources\Element\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kakashi\Kakashi.xml">
+      <Filter>Resources\Element\Kakashi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kakuzu\Kakuzu.plist">
+      <Filter>Resources\Element\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kakuzu\Kakuzu.pvr.ccz">
+      <Filter>Resources\Element\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kakuzu\Kakuzu.xml">
+      <Filter>Resources\Element\Kakuzu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kankuro\Kankuro.plist">
+      <Filter>Resources\Element\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kankuro\Kankuro.pvr.ccz">
+      <Filter>Resources\Element\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kankuro\Kankuro.xml">
+      <Filter>Resources\Element\Kankuro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Karasu\Karasu.plist">
+      <Filter>Resources\Element\Karasu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Karasu\Karasu.pvr.ccz">
+      <Filter>Resources\Element\Karasu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Karasu\Karasu.xml">
+      <Filter>Resources\Element\Karasu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Karin\Karin.plist">
+      <Filter>Resources\Element\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Karin\Karin.pvr.ccz">
+      <Filter>Resources\Element\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Karin\Karin.xml">
+      <Filter>Resources\Element\Karin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kiba\Kiba.plist">
+      <Filter>Resources\Element\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kiba\Kiba.pvr.ccz">
+      <Filter>Resources\Element\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kiba\Kiba.xml">
+      <Filter>Resources\Element\Kiba</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kisame\Kisame.plist">
+      <Filter>Resources\Element\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kisame\Kisame.pvr.ccz">
+      <Filter>Resources\Element\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kisame\Kisame.xml">
+      <Filter>Resources\Element\Kisame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Konan\Konan.plist">
+      <Filter>Resources\Element\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Konan\Konan.pvr.ccz">
+      <Filter>Resources\Element\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Konan\Konan.xml">
+      <Filter>Resources\Element\Konan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kurama\Kurama.plist">
+      <Filter>Resources\Element\Kurama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kurama\Kurama.pvr.ccz">
+      <Filter>Resources\Element\Kurama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Kurama\Kurama.xml">
+      <Filter>Resources\Element\Kurama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Lee\Lee.plist">
+      <Filter>Resources\Element\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Lee\Lee.pvr.ccz">
+      <Filter>Resources\Element\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Lee\Lee.xml">
+      <Filter>Resources\Element\Lee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\MaskFudon\MaskFudon.plist">
+      <Filter>Resources\Element\MaskFudon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\MaskFudon\MaskFudon.pvr.ccz">
+      <Filter>Resources\Element\MaskFudon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\MaskFudon\MaskFudon.xml">
+      <Filter>Resources\Element\MaskFudon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\MaskKadon\MaskKadon.plist">
+      <Filter>Resources\Element\MaskKadon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\MaskKadon\MaskKadon.pvr.ccz">
+      <Filter>Resources\Element\MaskKadon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\MaskKadon\MaskKadon.xml">
+      <Filter>Resources\Element\MaskKadon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\MaskRaidon\MaskRaidon.plist">
+      <Filter>Resources\Element\MaskRaidon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\MaskRaidon\MaskRaidon.pvr.ccz">
+      <Filter>Resources\Element\MaskRaidon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\MaskRaidon\MaskRaidon.xml">
+      <Filter>Resources\Element\MaskRaidon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Minato\Minato.plist">
+      <Filter>Resources\Element\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Minato\Minato.pvr.ccz">
+      <Filter>Resources\Element\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Minato\Minato.xml">
+      <Filter>Resources\Element\Minato</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Bikyu.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Bug.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\BugPillar.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\BugTomado.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\ChuiDi.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\CircleMark.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\ClayBird.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Crash.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Crash2.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\DeidaraBom.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Dogs.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\FakeDeidara.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\FakeItachi.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\FakeMinato.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\FakeShino.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\FakeTobirama.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\FireRain.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\FudonSRK.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\FudonSRK2.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Hasan.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\HiraishinMark.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\InkBird.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\InkDragon.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\ItachiSusano.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Kage.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\KageBom.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\KageFeng.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\KageHand.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\KageHands.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Kaiten.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Kubi.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Kuroari.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\LeeBom.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Mine.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Mouse.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Paku.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\PaperRain.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Qilin.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\QuanRen.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Sabaku.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\SakuraBom.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Sanbao.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\SandBall.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\SandHand.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\SandWave.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\SasukeSusano.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Shark.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Shark2.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Shenwei.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Shenwei2.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Shoryu.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\SmallSlug.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Snake.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Spider.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Steam.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\SuiRyuDan.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Suiji.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Suijin.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\TamaBomb.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Tenmu.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\ThunderWave.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Tiger.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\TodonPillar.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Traps.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Tsukuyomi.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Tuji.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Tuji2.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\WaterBom.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\WaterBullet.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Wave.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Yataikuzu.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Monster\Yominuma.xml">
+      <Filter>Resources\Element\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Naruto\Naruto.plist">
+      <Filter>Resources\Element\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Naruto\Naruto.pvr.ccz">
+      <Filter>Resources\Element\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Naruto\Naruto.xml">
+      <Filter>Resources\Element\Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Neji\Neji.plist">
+      <Filter>Resources\Element\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Neji\Neji.pvr.ccz">
+      <Filter>Resources\Element\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Neji\Neji.xml">
+      <Filter>Resources\Element\Neji</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Orochimaru\Orochimaru.plist">
+      <Filter>Resources\Element\Orochimaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Orochimaru\Orochimaru.pvr.ccz">
+      <Filter>Resources\Element\Orochimaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Orochimaru\Orochimaru.xml">
+      <Filter>Resources\Element\Orochimaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Parents\Parents.plist">
+      <Filter>Resources\Element\Parents</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Parents\Parents.pvr.ccz">
+      <Filter>Resources\Element\Parents</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Parents\Parents.xml">
+      <Filter>Resources\Element\Parents</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\RikudoNaruto\RikudoNaruto.plist">
+      <Filter>Resources\Element\RikudoNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\RikudoNaruto\RikudoNaruto.pvr.ccz">
+      <Filter>Resources\Element\RikudoNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\RikudoNaruto\RikudoNaruto.xml">
+      <Filter>Resources\Element\RikudoNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\RockLee\RockLee.plist">
+      <Filter>Resources\Element\RockLee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\RockLee\RockLee.pvr.ccz">
+      <Filter>Resources\Element\RockLee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\RockLee\RockLee.xml">
+      <Filter>Resources\Element\RockLee</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Roshi\Roshi.plist">
+      <Filter>Resources\Element\Roshi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Roshi\Roshi.pvr.ccz">
+      <Filter>Resources\Element\Roshi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Roshi\Roshi.xml">
+      <Filter>Resources\Element\Roshi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\SageJiraiya\SageJiraiya.plist">
+      <Filter>Resources\Element\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\SageJiraiya\SageJiraiya.pvr.ccz">
+      <Filter>Resources\Element\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\SageJiraiya\SageJiraiya.xml">
+      <Filter>Resources\Element\SageJiraiya</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\SageNaruto\SageNaruto.plist">
+      <Filter>Resources\Element\SageNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\SageNaruto\SageNaruto.pvr.ccz">
+      <Filter>Resources\Element\SageNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\SageNaruto\SageNaruto.xml">
+      <Filter>Resources\Element\SageNaruto</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sai\Sai.plist">
+      <Filter>Resources\Element\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sai\Sai.pvr.ccz">
+      <Filter>Resources\Element\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sai\Sai.xml">
+      <Filter>Resources\Element\Sai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sakura\Sakura.plist">
+      <Filter>Resources\Element\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sakura\Sakura.pvr.ccz">
+      <Filter>Resources\Element\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sakura\Sakura.xml">
+      <Filter>Resources\Element\Sakura</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sanshouuo\Sanshouuo.plist">
+      <Filter>Resources\Element\Sanshouuo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sanshouuo\Sanshouuo.pvr.ccz">
+      <Filter>Resources\Element\Sanshouuo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sanshouuo\Sanshouuo.xml">
+      <Filter>Resources\Element\Sanshouuo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Saso\Saso.plist">
+      <Filter>Resources\Element\Saso</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Saso\Saso.pvr.ccz">
+      <Filter>Resources\Element\Saso</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Saso\Saso.xml">
+      <Filter>Resources\Element\Saso</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sasuke\Sasuke.plist">
+      <Filter>Resources\Element\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sasuke\Sasuke.pvr.ccz">
+      <Filter>Resources\Element\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Sasuke\Sasuke.xml">
+      <Filter>Resources\Element\Sasuke</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Shikamaru\Shikamaru.plist">
+      <Filter>Resources\Element\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Shikamaru\Shikamaru.pvr.ccz">
+      <Filter>Resources\Element\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Shikamaru\Shikamaru.xml">
+      <Filter>Resources\Element\Shikamaru</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Shino\Shino.plist">
+      <Filter>Resources\Element\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Shino\Shino.pvr.ccz">
+      <Filter>Resources\Element\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Shino\Shino.xml">
+      <Filter>Resources\Element\Shino</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Asuma_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Asuma_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Chiyo_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Chiyo_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Choji_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Choji_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Deidara_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Deidara_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Gaara_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Gaara_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Hashirama_Skill.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Hashirama_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Hidan_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Hidan_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Hinata_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Hinata_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Hiruzen_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Hiruzen_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Ino_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Ino_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Itachi_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Itachi_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Jiraiya_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Jiraiya_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Jugo_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Jugo_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Kakashi_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Kakashi_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Kankuro_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Kankuro_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Karin_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Karin_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Kisame_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Kisame_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Konan_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Konan_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Lee_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Lee_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Minato_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Minato_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Naruto_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Naruto_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Neji_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Neji_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Orochimaru_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Orochimaru_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Sai_Skill..pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Sai_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Sakura_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Sakura_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Sasuke_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Sasuke_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Shikamaru_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Shikamaru_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Shino_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Shino_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Suigetsu_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Suigetsu_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Tenten_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Tenten_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Tobi_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Tobi_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Tobirama_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Tobirama_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Tsunade_Skill.plist">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Skills\Tsunade_Skill.pvr.ccz">
+      <Filter>Resources\Element\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Slug\Slug.plist">
+      <Filter>Resources\Element\Slug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Slug\Slug.pvr.ccz">
+      <Filter>Resources\Element\Slug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Slug\Slug.xml">
+      <Filter>Resources\Element\Slug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Suigetsu\Suigetsu.plist">
+      <Filter>Resources\Element\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Suigetsu\Suigetsu.pvr.ccz">
+      <Filter>Resources\Element\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Suigetsu\Suigetsu.xml">
+      <Filter>Resources\Element\Suigetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tenten\Tenten.plist">
+      <Filter>Resources\Element\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tenten\Tenten.pvr.ccz">
+      <Filter>Resources\Element\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tenten\Tenten.xml">
+      <Filter>Resources\Element\Tenten</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tobi\Tobi.plist">
+      <Filter>Resources\Element\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tobi\Tobi.pvr.ccz">
+      <Filter>Resources\Element\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tobi\Tobi.xml">
+      <Filter>Resources\Element\Tobi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tobirama\Tobirama.plist">
+      <Filter>Resources\Element\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tobirama\Tobirama.pvr.ccz">
+      <Filter>Resources\Element\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tobirama\Tobirama.xml">
+      <Filter>Resources\Element\Tobirama</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\CenterDate.xml">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower.plist">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower.png">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower2.plist">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower2.png">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower3.plist">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower3.png">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower4.plist">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower4.png">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower5.plist">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\Tower5.png">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tower\TowerDate.xml">
+      <Filter>Resources\Element\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tsunade\Tsunade.plist">
+      <Filter>Resources\Element\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tsunade\Tsunade.pvr.ccz">
+      <Filter>Resources\Element\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\Tsunade\Tsunade.xml">
+      <Filter>Resources\Element\Tsunade</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\hpBar\flogBar.plist">
+      <Filter>Resources\Element\hpBar</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\hpBar\flogBar.pvr.ccz">
+      <Filter>Resources\Element\hpBar</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\hpBar\hpBar.plist">
+      <Filter>Resources\Element\hpBar</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\hpBar\hpBar.pvr.ccz">
+      <Filter>Resources\Element\hpBar</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\md5.xml">
+      <Filter>Resources\Element</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Element\strings.xml">
+      <Filter>Resources\Element</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Gears.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Gears.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Map.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Map.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Menu.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Menu.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\NamePlate.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\NamePlate.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Ougis.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Ougis.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Ougis2.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Ougis2.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Ranking.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Ranking.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Record.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Record.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Record2.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Record2.pvr.ccz">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Report.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Report.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Result.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Result.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Select.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Select.pvr.ccz">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Select2.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Select2.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\1.tmx">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\2.tmx">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\3.tmx">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\4.tmx">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\5.tmx">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\map_bg1.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\map_bg2.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\map_bg3.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\map_bg4.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\map_bg5.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile.plist">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile2.plist">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile2.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile3.plist">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile3.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile4.plist">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile4.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile5.plist">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\Tiles\tile5.png">
+      <Filter>Resources\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\UI.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\UI.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\blue_bg.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\1.fnt">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\1.png">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\arial.fnt">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\arial.png">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\blue.fnt">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\blue.png">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\red.fnt">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\red.png">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\white.fnt">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\white.png">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\yellow.fnt">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\fonts\yellow.png">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\iCoV0sElXDZ5UfOr">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\logo.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\logo2.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\menu_bar2.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\menu_bar3.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\push_start.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\rank.json">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\rank2.json">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\red_bg.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\Resources\zakume.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{183C59DE-3625-3741-A9DD-8D1B958DD32C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio">
+      <UniqueIdentifier>{1644B8C9-8D67-32B8-A79A-CE162EDEA781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Asuma">
+      <UniqueIdentifier>{736812E5-95C6-35F3-B25E-CEEEBDE97D98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Chiyo">
+      <UniqueIdentifier>{9E290417-9DEA-36BE-863A-0F430F537355}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Choji">
+      <UniqueIdentifier>{B2CF6413-7E06-3605-AE9D-0E0201A1E9DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Deidara">
+      <UniqueIdentifier>{8F7A440B-5314-3328-86AF-AD0C520538F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Effect">
+      <UniqueIdentifier>{135C37B4-EF54-36E9-85B4-DE0F8D2B7133}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Gaara">
+      <UniqueIdentifier>{CF610BDD-414F-33FC-A74E-DE7AB1BA844C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Han">
+      <UniqueIdentifier>{1A6BC23F-8C24-3061-9692-DC762DEABB26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Hidan">
+      <UniqueIdentifier>{E5BB4A7A-0BAC-34ED-B431-849EFBBC0BAB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Hinata">
+      <UniqueIdentifier>{61E6B068-7437-37E3-A26A-C0CA0623FDF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Hiruzen">
+      <UniqueIdentifier>{0D17B17D-45FA-310F-A1EB-7C3EF51EEFCA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\ImmortalSasuke">
+      <UniqueIdentifier>{638F2589-A102-3422-88E3-B5ACB8949AA3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Ino">
+      <UniqueIdentifier>{749F76F0-83F3-3F31-A94F-65ED3966134C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Intro">
+      <UniqueIdentifier>{1DCAB5E0-6ED5-3CD1-9C94-AC9F8DACA5D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Itachi">
+      <UniqueIdentifier>{90929BA6-FC85-337B-9A9A-E0C3F778B7B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Jiraiya">
+      <UniqueIdentifier>{A512CFEE-EBFD-3B96-9646-0907A839262C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Jugo">
+      <UniqueIdentifier>{73170A62-FF82-309B-9979-818614E4191F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Kakashi">
+      <UniqueIdentifier>{FD3717EE-D4C2-3001-8A85-FDEDA7DD0B2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Kakuzu">
+      <UniqueIdentifier>{ABD083A7-2801-36A4-BD48-CB1EF1FA2301}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Kankuro">
+      <UniqueIdentifier>{F0931B4E-E0CF-3D20-8D2B-CF57457E0D01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Karin">
+      <UniqueIdentifier>{AB2A73C2-066A-321C-AB28-3872C4EB819B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Kiba">
+      <UniqueIdentifier>{668602E8-07F2-3526-B7EA-30208EC6BFC6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Kisame">
+      <UniqueIdentifier>{AED6D280-E98B-35CA-A74E-0C1696A205C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Konan">
+      <UniqueIdentifier>{19C8B545-D811-3415-BAAA-588B52C78524}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Lee">
+      <UniqueIdentifier>{203A9066-2270-3C38-81FD-DB53890A262D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Menu">
+      <UniqueIdentifier>{8CCD31FE-19E7-3B10-AAE9-447DD91D1E7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Minato">
+      <UniqueIdentifier>{7555245E-84EB-3234-AE77-D6DF15C86A92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Music">
+      <UniqueIdentifier>{FAA336F3-5E9A-3321-9EC1-2CF77CB8683F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Naruto">
+      <UniqueIdentifier>{3CF1DB45-89C0-33A5-9C1C-5AF3D47350C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Neji">
+      <UniqueIdentifier>{5E73B5F5-C030-3F16-B509-ADCEE23B5F2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Ougis">
+      <UniqueIdentifier>{91DE6916-9220-3F5E-8AFE-5C0D521306CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\RikudoNaruto">
+      <UniqueIdentifier>{2329A062-4936-32DC-85E0-9CBD2CC6FB3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Roshi">
+      <UniqueIdentifier>{6B21D536-0C56-343A-8B19-9F93C8E246A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\SageJiraiya">
+      <UniqueIdentifier>{20F8827E-A76C-3CB7-9F76-AE0900686FE2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\SageNaruto">
+      <UniqueIdentifier>{CAD0CDDD-031E-37EC-8739-9327A6628E31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Sai">
+      <UniqueIdentifier>{C50607DB-5038-31D0-B9FA-C7E0C626986E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Sakura">
+      <UniqueIdentifier>{59F09079-06BC-3177-BB23-FE0131A3D03F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Sasuke">
+      <UniqueIdentifier>{8E4DC4C8-2A8F-3A45-A9AF-EE3F02C12DE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Shikamaru">
+      <UniqueIdentifier>{D5883B22-9F27-320C-94D9-8DDF2DC9A418}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Shino">
+      <UniqueIdentifier>{EC69DD1F-6397-3BC4-ADCA-197A7CD88FD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Suigetsu">
+      <UniqueIdentifier>{720DA9DA-9B20-3BE2-96DD-050C82E13213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Tenten">
+      <UniqueIdentifier>{BB8D6F4A-2EEC-3B00-AE29-218BC87468B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Tobi">
+      <UniqueIdentifier>{34183B14-AFA7-3AAE-81A5-8180A69F9D51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Tobirama">
+      <UniqueIdentifier>{89582A79-C36E-3314-B7E6-3BDE5AF446F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Audio\Tsunade">
+      <UniqueIdentifier>{EBDDECB3-75A3-30D2-A70B-9D3F9840C167}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Effects">
+      <UniqueIdentifier>{07A382DA-CF05-37A1-94A8-A06CCCE9290E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element">
+      <UniqueIdentifier>{0E25F6E0-6EFE-3EA5-89FA-FCBC764BC4DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\.idea">
+      <UniqueIdentifier>{EF3FF3AA-1756-3A1E-9429-743054DCF4BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\.idea\scopes">
+      <UniqueIdentifier>{FC714D5B-FC6B-36A6-A024-7C60E789C384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Akamaru">
+      <UniqueIdentifier>{B9FBF381-1D7E-334D-9B28-04699C9BC248}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Asuma">
+      <UniqueIdentifier>{53920DAF-D34F-3D5B-98B9-0179099319C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Bullet">
+      <UniqueIdentifier>{0F2C516D-68B4-3826-9838-8CDA2D6608CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Centipede">
+      <UniqueIdentifier>{59504653-9FE1-3BB6-ABDB-80606AD97805}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Chiyo">
+      <UniqueIdentifier>{0F425095-B900-3905-ADB8-7066F1C5A03F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Choji">
+      <UniqueIdentifier>{C5C81310-210A-303A-AE18-46B693F4005D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Deidara">
+      <UniqueIdentifier>{37D94533-1A86-3552-9FA2-45D1315C1E5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\DogWall">
+      <UniqueIdentifier>{FBF7DA0C-466E-3253-97B2-C52691E8E34A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Flog">
+      <UniqueIdentifier>{F83C89F3-23A6-32C5-BA44-D469B5888186}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Gaara">
+      <UniqueIdentifier>{A49D0391-E760-3969-A5B4-3FF7032832A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Han">
+      <UniqueIdentifier>{E0A969B2-F2DF-34F8-B82F-CFFAF64177F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Hidan">
+      <UniqueIdentifier>{258071EE-C398-3015-936D-4B2546C317F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Hinata">
+      <UniqueIdentifier>{9D5806F0-2661-3A2F-B095-DD25A8F9C64C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Hiruzen">
+      <UniqueIdentifier>{DA406980-A851-3150-8E19-654F6BE14C9C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\ImmortalSasuke">
+      <UniqueIdentifier>{C8B3B74F-E3AE-373B-828D-E51E12E6FF3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Ino">
+      <UniqueIdentifier>{15F267CB-33A1-3AF0-9323-371EA0FC4CA8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Itachi">
+      <UniqueIdentifier>{17DC3326-786A-34C9-A54E-447627A27E37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Jiraiya">
+      <UniqueIdentifier>{08F01103-38C1-33AA-B8AA-02A0F6DD210E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Jugo">
+      <UniqueIdentifier>{F2226B84-0844-303F-BB65-76FF8E8E3A9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Kakashi">
+      <UniqueIdentifier>{138FA4BC-044D-349C-BE25-B6F57931BD50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Kakuzu">
+      <UniqueIdentifier>{B6037187-58AA-3438-A064-2E4D081B287A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Kankuro">
+      <UniqueIdentifier>{652DEA9E-493A-3E4B-8496-EED87D40CF77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Karasu">
+      <UniqueIdentifier>{D91DB99E-2E09-3CC3-BFD8-4A18A3928174}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Karin">
+      <UniqueIdentifier>{17EEBA40-87B1-3942-8F2E-0BD511AADA63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Kiba">
+      <UniqueIdentifier>{320CBAF0-18DD-38B6-81E6-CCC44E52BEFD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Kisame">
+      <UniqueIdentifier>{75D09C18-8F27-3BD3-8B90-9FD9B93CA66D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Konan">
+      <UniqueIdentifier>{8EB3ECE5-0283-3E6A-AEF6-2C6E91A8F557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Kurama">
+      <UniqueIdentifier>{86C3A773-2BE1-3DB7-A28E-AC870CE4660B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Lee">
+      <UniqueIdentifier>{0EF466A1-AC1C-3F0A-825E-DFD3059877B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\MaskFudon">
+      <UniqueIdentifier>{77299901-9A65-3699-AEA9-EDC3313624C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\MaskKadon">
+      <UniqueIdentifier>{9C43656C-909B-36B3-BE47-EFAD74D1CF1A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\MaskRaidon">
+      <UniqueIdentifier>{3BC536B8-BB94-315B-96E0-6169B08F20A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Minato">
+      <UniqueIdentifier>{6288307E-2D01-376E-8437-D271BED86166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Monster">
+      <UniqueIdentifier>{573B7E4D-36AD-3CF0-BC5F-1D4F11E9B852}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Naruto">
+      <UniqueIdentifier>{9FCF681B-5550-313F-9AF3-45E0C7377DB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Neji">
+      <UniqueIdentifier>{0F90814D-5638-393A-B419-ACA139C64ABF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Orochimaru">
+      <UniqueIdentifier>{799DC10B-4B6E-3F2F-969B-83346E29E375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Parents">
+      <UniqueIdentifier>{39894847-DD5B-3087-B7E3-43CAEFAAB75C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\RikudoNaruto">
+      <UniqueIdentifier>{B2A2FB84-3383-36E0-860D-8C37DE3D6B75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\RockLee">
+      <UniqueIdentifier>{76158470-6087-34D6-9415-BB0E90B57065}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Roshi">
+      <UniqueIdentifier>{29128459-24FE-3E1C-B72B-12B6FDABB7D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\SageJiraiya">
+      <UniqueIdentifier>{A8F8AAEE-58DC-35E4-BEDC-6BFF470BC07E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\SageNaruto">
+      <UniqueIdentifier>{07F18397-DC21-3225-9D71-5369E5140661}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Sai">
+      <UniqueIdentifier>{B49AEF28-1733-30B4-9B89-9D8BA2B5AFBC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Sakura">
+      <UniqueIdentifier>{ACD086E7-E9E2-370F-89FB-8B75430AB69E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Sanshouuo">
+      <UniqueIdentifier>{E44FDBF6-B84C-3414-9174-7CB065C1844D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Saso">
+      <UniqueIdentifier>{62C690C7-6983-3CCA-A30D-7E8B92132639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Sasuke">
+      <UniqueIdentifier>{6D34CE65-64B9-345C-8486-2753C64BBFC3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Shikamaru">
+      <UniqueIdentifier>{474568C4-F0FF-309E-B733-4DFB7DAAE51B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Shino">
+      <UniqueIdentifier>{E611BB94-6075-3956-8CCA-C839D59BAB8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Skills">
+      <UniqueIdentifier>{F469D2C5-EDF9-3EAA-AD00-F852C3A70061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Slug">
+      <UniqueIdentifier>{7070D03B-7079-3134-BEC7-24AD218CF419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Suigetsu">
+      <UniqueIdentifier>{6C60EE57-290A-39F7-85BB-F722A1E2CAAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Tenten">
+      <UniqueIdentifier>{C6AFBE2D-557A-3C33-922B-2B65A5F26150}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Tobi">
+      <UniqueIdentifier>{323FD653-4001-31FF-8F6F-3FE877A8C39C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Tobirama">
+      <UniqueIdentifier>{BD06C06B-B452-308C-93BF-BD2B7AE3C697}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Tower">
+      <UniqueIdentifier>{49A7E7D7-F27B-3ED0-8113-22DB8C69116C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\Tsunade">
+      <UniqueIdentifier>{66B581CA-E6AD-3C50-B481-5AD6FFEEA5EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Element\hpBar">
+      <UniqueIdentifier>{19F4928D-E4B3-3C76-B442-BE08DC9CD79B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Tiles">
+      <UniqueIdentifier>{776F63F8-9548-39E3-8BE5-26B937F2A5AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{3984D512-928D-30B7-845C-E2935E5B8ECE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{094A3A7E-3766-3485-9B79-6C3B35610EE6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{997EEB83-82B4-33FB-B406-FC1FF8CD239E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{FE18CC42-7349-34DF-9FF3-8DBBA6A527DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\MyUtils">
+      <UniqueIdentifier>{F31DDD95-E10C-32ED-8A90-C49E7DAC63D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{3CCB6C4A-EB32-3EC5-8FAF-ECDA5794AD67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveNugetPackages>false</ResolveNugetPackages>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{58CEA207-AB7F-325A-803E-AE96F65CFDE3}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <Platform>Win32</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v145</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v145</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v145</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v145</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/Rieyu Xhen/Desktop/NarutoSenki/cocos2d/cocos/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Rieyu Xhen/Desktop/NarutoSenki" "-BC:/Users/Rieyu Xhen/Desktop/NarutoSenki/proj.win32" --check-stamp-file "C:/Users/Rieyu Xhen/Desktop/NarutoSenki/proj.win32/engine/cocos/core/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\2d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\3d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\audio\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\base\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\editor-support\cocostudio\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\math\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\navmesh\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\network\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\physics\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\physics3d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\platform\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\renderer\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\ui\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\extensions\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\cocos\core\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/Rieyu Xhen/Desktop/NarutoSenki/cocos2d/cocos/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Rieyu Xhen/Desktop/NarutoSenki" "-BC:/Users/Rieyu Xhen/Desktop/NarutoSenki/proj.win32" --check-stamp-file "C:/Users/Rieyu Xhen/Desktop/NarutoSenki/proj.win32/engine/cocos/core/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\2d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\3d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\audio\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\base\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\editor-support\cocostudio\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\math\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\navmesh\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\network\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\physics\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\physics3d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\platform\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\renderer\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\ui\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\extensions\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\cocos\core\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/Rieyu Xhen/Desktop/NarutoSenki/cocos2d/cocos/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Rieyu Xhen/Desktop/NarutoSenki" "-BC:/Users/Rieyu Xhen/Desktop/NarutoSenki/proj.win32" --check-stamp-file "C:/Users/Rieyu Xhen/Desktop/NarutoSenki/proj.win32/engine/cocos/core/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\2d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\3d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\audio\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\base\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\editor-support\cocostudio\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\math\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\navmesh\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\network\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\physics\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\physics3d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\platform\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\renderer\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\ui\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\extensions\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\cocos\core\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/Rieyu Xhen/Desktop/NarutoSenki/cocos2d/cocos/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Rieyu Xhen/Desktop/NarutoSenki" "-BC:/Users/Rieyu Xhen/Desktop/NarutoSenki/proj.win32" --check-stamp-file "C:/Users/Rieyu Xhen/Desktop/NarutoSenki/proj.win32/engine/cocos/core/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\2d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\3d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\audio\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\base\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\editor-support\cocostudio\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\math\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\navmesh\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\network\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\physics\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\physics3d\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\platform\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\renderer\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\cocos\ui\CMakeLists.txt;C:\Users\Rieyu Xhen\Desktop\NarutoSenki\cocos2d\extensions\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\cocos\core\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\ZERO_CHECK.vcxproj">
+      <Project>{8D29BA24-7532-3C29-9092-2FDB8FAA3F51}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\cocos\core\cocos2d.vcxproj">
+      <Project>{539DBCB0-B289-38BA-858A-709D01CA16CE}</Project>
+      <Name>cocos2d</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\clipper\ext_clipper.vcxproj">
+      <Project>{253A1959-2B55-381C-80F5-DC68EE61D5B1}</Project>
+      <Name>ext_clipper</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\ConvertUTF\ext_convertUTF.vcxproj">
+      <Project>{8A905A34-4621-3052-963D-3D487C55B89E}</Project>
+      <Name>ext_convertUTF</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\edtaa3func\ext_edtaa3func.vcxproj">
+      <Project>{AE222CC2-81C4-3C71-A25B-6B7B4BA40E23}</Project>
+      <Name>ext_edtaa3func</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\md5\ext_md5.vcxproj">
+      <Project>{9E5B5FE4-80A6-3C08-AD4E-77EF93996EFA}</Project>
+      <Name>ext_md5</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\poly2tri\ext_poly2tri.vcxproj">
+      <Project>{B2E7DE46-BF5D-3C92-BD08-2CFCB844F8AD}</Project>
+      <Name>ext_poly2tri</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\recast\ext_recast.vcxproj">
+      <Project>{7FCFD6AD-3A6E-3A8E-AA96-2F918734B8D3}</Project>
+      <Name>ext_recast</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\tinyxml2\ext_tinyxml2.vcxproj">
+      <Project>{BECFC962-F160-38CA-A1D2-1A0D4B023386}</Project>
+      <Name>ext_tinyxml2</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\unzip\ext_unzip.vcxproj">
+      <Project>{DF89E5F4-7C10-37F6-8331-75C1D0FFB1BF}</Project>
+      <Name>ext_unzip</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\xxhash\ext_xxhash.vcxproj">
+      <Project>{15BAE36B-6EBC-362E-9DC4-0F2A132A88EC}</Project>
+      <Name>ext_xxhash</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\xxtea\ext_xxtea.vcxproj">
+      <Project>{45A35F9F-BB62-3D74-869D-5AAF8BAEB029}</Project>
+      <Name>ext_xxtea</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Rieyu Xhen\Desktop\NarutoSenki\proj.win32\engine\external\external.vcxproj">
+      <Project>{F887A7A4-6FE2-362C-98B3-CF8F8D2EF941}</Project>
+      <Name>external</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
